@@ -1,4 +1,4 @@
-package desingpatterns.one;
+package designpatterns.Strategy;
 
 /**
  * Created by zhangyue-k on 2018/1/7.

@@ -1,4 +1,4 @@
-package desingpatterns.one;
+package designpatterns.Strategy;
 
 /**
  * @author zhangyue
