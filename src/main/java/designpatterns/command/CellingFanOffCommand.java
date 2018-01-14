@@ -15,4 +15,9 @@ public class CellingFanOffCommand implements Command{
     public void execute() {
         cellingFan.off();
     }
+
+    @Override
+    public void undo() {
+
+    }
 }
