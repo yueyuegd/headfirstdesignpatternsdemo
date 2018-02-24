@@ -1,8 +1,11 @@
+/*
 package designpatterns.combining;
 
+*/
 /**
  * Created by zhangyue-k on 2018/2/12.
- */
+ *//*
+
 public class DuckSimulator {
 
     public static void main(String[] args) {
@@ -43,11 +46,13 @@ public class DuckSimulator {
 
         simulate(flockDucks);
         simulate(flockOfMallards);
-        /*simulate(mallardDuck);
+        */
+/*simulate(mallardDuck);
         simulate(redheadDuck);
         simulate(duckCall);
         simulate(rubberDuck);
-        simulate(gooseDuck);*/
+        simulate(gooseDuck);*//*
+
 
         System.out.println("The ducks quacked " + QuackCounter.getNumberOfQuacks() + " times");
     }
@@ -56,3 +61,4 @@ public class DuckSimulator {
         duck.quack();
     }
 }
+*/

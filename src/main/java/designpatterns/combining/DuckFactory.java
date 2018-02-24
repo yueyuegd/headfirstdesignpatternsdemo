@@ -1,8 +1,11 @@
+/*
 package designpatterns.combining;
 
+*/
 /**
  * Created by zhangyue-k on 2018/2/12.
- */
+ *//*
+
 public class DuckFactory extends AbstractDuckFactory {
     @Override
     public Quackable createMallardDuck() {
@@ -24,3 +27,4 @@ public class DuckFactory extends AbstractDuckFactory {
         return new RubberDuck();
     }
 }
+*/

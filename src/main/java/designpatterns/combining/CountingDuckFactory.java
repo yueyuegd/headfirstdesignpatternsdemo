@@ -1,8 +1,11 @@
+/*
 package designpatterns.combining;
 
+*/
 /**
  * Created by zhangyue-k on 2018/2/12.
- */
+ *//*
+
 public class CountingDuckFactory extends AbstractDuckFactory {
     @Override
     public Quackable createMallardDuck() {
@@ -24,3 +27,4 @@ public class CountingDuckFactory extends AbstractDuckFactory {
         return new QuackCounter(new RubberDuck());
     }
 }
+*/

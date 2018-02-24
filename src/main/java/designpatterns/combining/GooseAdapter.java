@@ -1,8 +1,11 @@
+/*
 package designpatterns.combining;
 
+*/
 /**
  * Created by zhangyue-k on 2018/2/12.
- */
+ *//*
+
 public class GooseAdapter implements Quackable{
 
     Goose goose;
@@ -16,3 +19,4 @@ public class GooseAdapter implements Quackable{
         goose.honk();
     }
 }
+*/
